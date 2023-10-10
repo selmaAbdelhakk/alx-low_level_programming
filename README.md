@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-0x02-functions_nested_loops
-=======
 # alx-low_level_programming
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 ## 0x00. C - Hello, World 
